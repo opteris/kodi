@@ -1,0 +1,654 @@
+<meta name="viewport" content="width=device-width">
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='pl' lang='pl'>
+<head>
+<title>Modyfikacje, wtyczki, pluginy,  dodatki KODI</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta name='description' content='' />
+<meta name='keywords' content='' />
+<link rel='stylesheet' href='../../themes/mods-kodi/styles.css' type='text/css' media='screen' />
+<link rel='shortcut icon' href='../../images/favicon.ico' type='image/x-icon' />
+<script type='text/javascript' src='../../includes/jscript.js'></script>
+<script type='text/javascript' src='../../includes/jquery.js'></script>
+<link rel='stylesheet' type='text/css' media='screen' href='../../includes/als_demo.css' /><script type='text/javascript' src='../../includes/jquery.als-1.7.js'></script>
+<style type='text/css'> .mpip-outer{padding: 5px 0px 10px 0px; /* top right bottom left*/}
+		.mpip-main { border: 1px solid; padding: 15px 0px 15px 40px; /* top right bottom left*/
+		background-repeat: no-repeat; background-position: 7px center;
+		 background-color: #FFBABA; background-image: url(../../infusions/missing_profile_info_panel/images/attention.png);
+		border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; } </style>
+<script src='../../infusions/jquery_login_model_panel/js/script.js' type='text/javascript'></script>
+<style type='text/css'> 
+		#mask {
+			width:100%;
+			height:100%;
+			position:fixed;
+			left:0;
+			top:0;
+			z-index:9000;
+			background-color:#000;
+			display:none;
+		}
+		#boxes .window {
+			position:fixed;
+			width: 100%;
+			left: calc(50% - 150px);
+			top:25%;
+			display:none;
+			z-index:9999;
+			padding:20px;
+		}
+		#boxes #dialog {
+			font-size: 12px;
+			width:320px; 
+			color:#FDFDFD;
+			padding:30px;
+			background:#2C2C2C;
+			background-image:-moz-linear-gradient(top,#2C2C2C 0,#101010 100%);
+			background-image:-ms-linear-gradient(top,#2C2C2C 0,#101010 100%);
+			background-image:-o-linear-gradient(top,#2C2C2C 0,#101010 100%);
+			background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#2C2C2C),color-stop(100%,#101010));
+			background-image:-webkit-linear-gradient(top,#2C2C2C 0,#101010 100%);
+			background-image:linear-gradient(to bottom,#2C2C2C 0,#101010 100%);
+			filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ff2C2C2C,EndColorStr=#ff101010);
+			-webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px;	
+			margin-bottom: 20px; 
+		}
+		.title {
+			font-family: 'Type1', Roboto;
+			font-size: 28px;
+			color: #FDFDFD;
+			-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;
+		}
+		.form-div { 
+			margin-top: 20px;
+			float: left;
+		}
+		.username {
+			font-size: 13px; 
+			padding-bottom: 5px; 
+			text-shadow: -1px -2px 3px #444444;
+			filter: dropshadow(color=#444444, offx=-1, offy=-2);
+		}
+		.password {
+			font-size: 13px; 
+			margin-top: 10px;  
+			padding-bottom: 5px; 
+			text-shadow: -1px -2px 3px #444444;
+			filter: dropshadow(color=#444444, offx=-1, offy=-2);
+		}
+		.textboxb { 
+			width: 250px; 
+			height: 28px;  
+			padding-bottom: 5px; 
+			font-family:Roboto; 
+			font-size: 13px; 	
+			font-weight: bold; 
+			color: #2C2C2C; 	 
+			background-color: #F9F7F4; 
+			border: 1px solid #ccc; 
+			-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;
+			-webkit-box-shadow: 0px 0px 2px 3px #383838;
+			box-shadow: 0px 0px 2px 3px #383838;  
+		}
+		.textboxb:hover { 
+			background-color: #E7E5E0;  
+			-webkit-box-shadow: 0px 0px 2px 3px #383838;
+			box-shadow: 0px 0px 2px 3px #383838;  
+		}
+		.loginbutton-div {
+			margin-top: 15px; 
+			margin-bottom: 15px;
+		}
+		.rememberme {
+			text-align: left;
+			padding-left:20px;
+		}
+		.loginbutton {
+			font-family: 'Type1', Roboto;
+			font-size: 13px;
+			color: #FDFDFD;
+			padding: 5px 20px;
+			background: #E34555;
+			background: -moz-linear-gradient(top, #E34555 0%, #2C2C2C);
+			background: -webkit-gradient(linear, left top, left bottom, from(#E34555), to(#2C2C2C));
+			-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;
+			border: 1px solid #2C2C2C;
+			cursor: pointer;
+		}
+		.loginbutton:hover {
+			font-family: 'Type1', Roboto;
+			font-size: 13px;
+			color: #FDFDFD;
+			padding: 5px 20px;
+			background: -moz-linear-gradient( top, #FDCE83 0%, #FF9C00);
+			background: -webkit-gradient(linear, left top, left bottom, from(#FDCE83), to(#FF9C00));
+			-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;
+			border: 1px solid #2C2C2C;
+		}
+		.divclose {
+			padding-top: 3px;
+		}
+		.close {   
+			margin-top: 5px; 
+			float: right; 
+			opacity:0.5;
+			filter:alpha(opacity=50);
+			padding-right: 15px;	
+		}
+		.close:hover { 
+			opacity:0.3;
+			filter:alpha(opacity=30);
+		}
+		.link-text { 
+			color: #E34555; 
+		}
+		.link-text:hover { 
+			color: #FF9C00; 
+			text-decoration: none;
+		}
+		.btn-sign {
+	        width:150px;
+			height:30px;
+	        margin: 2px auto;
+	        padding:10px;
+	        border-radius:5px;
+	        background: -moz-linear-gradient(center top, #e34555, #e34555);
+            background: -webkit-gradient(linear, left top, left bottom, from(#e34555), to(#e34555));
+	        background:  -o-linear-gradient(top, #e34555, #e34555);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#e34555', EndColorStr='#e34555');
+	        text-align:center;
+	        font-size:13px;
+			font-family: 'Type1', Roboto;
+			font-weight: 600;
+	        color:#fff;
+	        text-transform:uppercase;
+			box-shadow: 0px 1px 3px 0px #9e9e9e;  
+        }
+
+		.btn-sign a { color:#fff; text-shadow:0 1px 1px #3c3c3c; }
+		
+		/* Media Screen */
+		@media screen and (max-width: 600px) {
+			#boxes .window {
+				left: calc(50% - 150px);
+			}
+				}
+</style>
+<script type='text/javascript' src='../../infusions/eXtreme_atwork_panel/js/boxover.js'></script>
+<script type='text/javascript'>
+var INFUSIONS = '../../infusions/'; 
+</script>
+<script type='text/javascript' src='../../infusions/eXtreme_atwork_panel/js/jquery.progressbar.js'></script>
+<script type='text/javascript'>
+$(document).ready(function() {
+	var paski = $('.progressBar');
+	$('span.progressBar').each(function (i) {
+		$(paski[i]).progressBar($(paski[i]).text(), {showText: false });
+	});
+});
+</script>
+<script type='text/javascript'src='../../infusions/avatar_in_tooltip_panel/jquery.tooltip.js'></script>
+<script type='text/javascript'>$(document).ready(function(){
+	$('.avatar-tooltip').simpletooltip();
+});</script>
+<script src='../../infusions/deluxe_dropdown_menu/includes/js/stuHover.js' type='text/javascript'></script>
+<link rel='stylesheet' type='text/css' href='../../infusions/deluxe_dropdown_menu/templates/RedCar_Drop/RedCar_Drop.css' />
+</head>
+<body>
+<table align='center' cellspacing='0' cellpadding='0' width='1200' class='outer-border'>
+<tr>
+<td>
+<table cellpadding='0' cellspacing='0' bgcolor='#2c2c2c'>
+<tr>
+<td style='padding-top: 0px;' class='full-header' align='center'><img src='../../themes/mods-kodi/images/top_banner.png' width='100%'></td></tr>
+<tr>
+<td class='sub-header'>
+<table><a href="http://mods-kodi.pl/info_epg/epg.php"><marquee>Ostatnia aktualizacja EPG: Polish - 18 Feb 2020 - 04:02:01 
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish.zip - 18 Feb 2020 - 04:02:21
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White - 18 Feb 2020 - 04:02:45
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White.zip - 18 Feb 2020 - 04:02:04
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV - 18 Feb 2020 - 01:02:44
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV.zip - 18 Feb 2020 - 01:02:38
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish - 18 Feb 2020 - 04:02:01
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish.zip - 18 Feb 2020 - 04:02:06
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish.zip - 18 Feb 2020 - 04:02:21
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench - 18 Feb 2020 - 04:02:03
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench.zip - 18 Feb 2020 - 04:02:15
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman.zip - 18 Feb 2020 - 04:02:11
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish - 18 Feb 2020 - 04:02:01
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish.zip - 18 Feb 2020 - 04:02:10
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian.zip - 18 Feb 2020 - 04:02:10
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian.zip - 18 Feb 2020 - 04:02:07
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian.zip - 18 Feb 2020 - 04:02:10
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux.zip - 18 Feb 2020 - 04:02:12
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech.zip - 18 Feb 2020 - 04:02:13
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspUS - 04 Nov 2019 - 04:11:03
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspUS.zip - 04 Nov 2019 - 04:11:04
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian - 18 Feb 2020 - 04:02:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian.zip - 18 Feb 2020 - 04:02:07
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld - 18 Feb 2020 - 06:02:03
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld.zip - 18 Feb 2020 - 06:02:54
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio - 18 Feb 2020 - 04:02:01
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio.zip - 18 Feb 2020 - 04:02:02
+</marquee></a></table><hr><table cellspacing='0' cellpadding='0' border='0' style='padding-top: 0px; padding-bottom: 0px;' width='auto' align='center'>
+<tr>
+ <td>
+
+<div class='preload1'></div>
+<div class='preload2'></div>
+<div class='preload3'></div>
+<div class='preload4'></div>
+<ul id='nav'><li class='top'><div><a href='../../index.php' class='top_link'>Strona Główna</a></div>
+</li>
+<li class='top'><div class='down'><a href='../../#' class='top_link'>Zasoby</a></div>
+<ul class='sub'><li><a href='../../articles.php'>Artykuły</a>
+</li>
+<li><a href='../../faq.php?cat_id=3#faq_12'>FAQ</a>
+</li>
+<li><a href='../../articles.php?cat_id=3'>Testy Sprzętu</a>
+</li>
+</ul>
+</li>
+<li class='top'><div class='down'><a href='../../#' class='top_link'>m-TVGuide</a></div>
+<ul class='sub'><li><a href='../../articles.php?article_id=10'>Changelog</a>
+</li>
+<li><a href='../../articles.php?article_id=64'>Instrukcja obsługi</a>
+</li>
+<li><a href='../../repository.php'>Repozytorium</a>
+</li>
+</ul>
+</li>
+<li class='top'><div class='down'><a href='../../#' class='top_link'>EPG</a></div>
+<ul class='sub'><li><a href='../../info_epg/epg.php'>Aktualna lista</a>
+</li>
+</ul>
+</li>
+<li class='top'><div class='down'><a href='../../#' class='top_link'>Serwis</a></div>
+<ul class='sub'><li><a href='../../viewpage.php?page_id=49'>Premium Member</a>
+</li>
+<li><a href='../../about_us.php'>Kontakt</a>
+</li>
+<li><a href='../../search.php'>Szukaj</a>
+</li>
+</ul>
+</li>
+<li class='top'><div class='down'><a href='../../forum/' class='top_link'>Forum</a></div>
+<ul class='sub'></ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='10' class='side-right'>
+<tr>
+<td class='main-bg' valign='top' width='1200'><noscript><div class='noscript-message admin-message'><p>O&nbsp;nie! Ta strona potrzebuje włączonej obsługi języka <strong>JavaScript</strong>!</p><p>Twoja przeglądarka nie obsługuje tego języka lub ma wyłączoną jego obsługę. <strong>Włącz wykonywanie kodu JavaScript</strong> w swojej przeglądarce internetowej, aby skorzystać ze wszystkich funkcji strony<br /> lub <strong>skorzystaj</strong> z&nbsp;programu obsługującego język JavaScript, np. <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Mozilla Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Apple Safari'>Apple Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Google Chrome</a> lub <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Windows Internet Explorer'>Windows Internet Explorer</a> w&nbsp;wersji wyższej niż 6.</p></div>
+</noscript>
+<a id='content' name='content'></a>
+
+
+<center>
+<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- mods-kodi -->
+<ins class='adsbygoogle'
+     style='width:800px;height:90px'
+     data-ad-client='ca-pub-9246045306278115'
+     data-ad-slot='9226450734'></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br><br>
+<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- mods-kodi góra linki -->
+<ins class='adsbygoogle'
+     style='display:inline-block;width:728px;height:20px'
+     data-ad-client='ca-pub-9246045306278115'
+     data-ad-slot='2669641041'></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br><br>
+</center>
+
+<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: 'ca-pub-9246045306278115',
+    enable_page_level_ads: true
+  });
+</script>
+
+
+<center>
+
+<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- mods-kodi dół -->
+<ins class='adsbygoogle'
+     style='display:inline-block;width:728px;height:90px;margin-top:15px'
+     data-ad-client='ca-pub-9246045306278115'
+     data-ad-slot='5086376232'></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</center>
+
+</td><td class='side-border-right' valign='top' width='200'><table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Logowanie</td>
+</tr>
+<tr>
+<td class='side-body'>
+
+	<table align='center' background='../../themes/mods-kodi/images/dialog_right.png' width='100%'><td>
+	<A HREF='#dialog' name='modal'><IMG class='glow4' SRC='../../infusions/jquery_login_model_panel/images/login.png' width='160px' style='margin-top:15px;margin-bottom:105px'></A>
+</td></table></td>
+</tr>
+</table>
+<div id='boxes'><div id='dialog' class='window'><a href='#'class='close'><img src='../../infusions/jquery_login_model_panel/images/x.png' alt='Zamknij' style='border: 0px;' /></a><div class='title'>Logowanie</div>
+<div class='form-div'><form name='loginform' method='post' action='premium.php?token=premium=31281928'>
+<div class='username'> Nazwa użytkownika</div>
+<input type='text' name='user_name' class='textboxb'  />
+<div class='password'>Hasło</div>
+<input type='password' name='user_pass' class='textboxb' /><br />
+<div class='loginbutton-div'>
+<input type='submit' name='login' value='Zaloguj' class='loginbutton' /><span class='rememberme'><label><input type='checkbox' name='remember_me' value='y' title='Zapamiętaj mnie' style='vertical-align:middle;cursor: pointer;' /></label></span></div>
+</form>
+
+<div style='text-align: left; font-family : 'Type1', Roboto; font-size:12px;'><b>Nie masz jeszcze konta?</b><br /><a href='../../register.php' class='link-text'><u>Kliknij tutaj</u></a> żeby się zarejestrować.</div>
+<br><div style='font-family : 'Type1', Roboto; font-size:12px; margin-top:15px; margin-bottom:15px;'><b>Zapomniałeś hasła?</b><br /><a href='../../lostpassword.php' class='link-text'><u>Kliknij tutaj</u></a> żeby otrzymać nowe.</div></div>
+</div>
+
+		<div id='mask'></div>
+	</div>
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>m-TVGuide</td>
+</tr>
+<tr>
+<td class='side-body'>
+
+<table class='side-body' align='center' background='../../themes/mods-kodi/images/dialog_download.png' width='100%'><td><div style='margin-top:15px;'>
+
+<center>
+
+<b><a href='../../articles.php?article_id=10' class='tb20'><FONT COLOR='#d02c3e'>8.1.4</FONT></b></a>
+<br>
+<span class='tbl3'><FONT COLOR='#555' SIZE='2'>Z dnia 16-11-2019</FONT></span>
+<br>
+<a href='../../repository.php' class='effect'><img src='../../images/pobierz_mtv8.png' width='180px' style='margin-top:90px' class='image'><img src='../../images/pobierz_mtv8_fo.png' width='180px' style='margin-top:90px' class='image hover'></a>
+<br>
+
+
+</center>
+
+</div></td></table></td>
+</tr>
+</table>
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmodskodi%2F&tabs=timeline&width=196&height=350&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:2px solid #f0f0f0;" width="196px" height="350" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe><br /><br /><center><a href='https://www.facebook.com/modskodi/'><img src='http://mods-kodi.pl/testing/themes/mods-kodi/images/facebook.png' width='180' style='margin-bottom:15px;'></a>
+<table style='background-color:#fdfdfd;' width='100%' style='margin-bottom:5px;'><td>
+<center>
+<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- mods-kodi prawy bok 3 -->
+<ins class='adsbygoogle'
+     style='display:inline-block;width:160px;height:240px'
+     data-ad-client='ca-pub-9246045306278115'
+     data-ad-slot='8334575858'></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</td></table><table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Aktualne projekty</td>
+</tr>
+<tr>
+<td class='side-body'>
+<div style='padding:10px;'><a style='cursor:hand' title="header=[<img src='../../infusions/eXtreme_atwork_panel/js/info.png' width='16' height='16' style='vertical-align:middle;'>&nbsp;Opis] body=[Dynamiczne tlo i kolory&lt;br&gt;
+Nowy pasek postepu czasu&lt;br&gt;
+Nowa skorka estuary mod v2&lt;br&gt;
+Wprowadzony nowy system tlumaczen dla Kodi v19 (strings.po)&lt;br&gt;
+Nowe kontrolki wyswietlajace informacje czasowe&lt;br&gt;
+Nowe menu ulubionych kanalow z innych wtyczek&lt;br&gt;
+Wyszukiwanie tytulu programu w Youtube&lt;br&gt;
+Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>] fade=[on]"><strong>m-TVGuide 8.2.0</strong></a><br /><div style='padding-left:1.3em; padding-bottom: 1.3em;'><span class='small'>Ukończone: 70%</span><br /><span style='white-space:nowrap; float:left; margin-top:0.45em; margin-left:0.65em; width:100; height:5px; border:1px solid #E1E1E1;'>
+				<span style='float:left; background:url(../../infusions/eXtreme_atwork_panel/img/pasek.gif) no-repeat left; width:70px; height:5px;'></span>
+				</span><br /><span class='small'>Aktualizacja: 30.06.2019</span></div></div><hr />
+<div style='padding:10px;'><a style='cursor:hand' title="header=[<img src='../../infusions/eXtreme_atwork_panel/js/info.png' width='16' height='16' style='vertical-align:middle;'>&nbsp;Opis] body=[Modyfikacja ikon w epg. Podziękowania dla Mariusza za napisanie odpowiedniego skrytpu<br /><br /><i>Wersja: 2.0</i>] fade=[on]"><strong>Modyfikacja ikon w EPG IT</strong></a><br /><div style='padding-left:1.3em; padding-bottom: 1.3em;'><span class='small'>Ukończone: 5%</span><br /><span style='white-space:nowrap; float:left; margin-top:0.45em; margin-left:0.65em; width:100; height:5px; border:1px solid #E1E1E1;'>
+				<span style='float:left; background:url(../../infusions/eXtreme_atwork_panel/img/pasek.gif) no-repeat left; width:5px; height:5px;'></span>
+				</span><br /><span class='small'>Aktualizacja: 26.01.2020</span></div></div></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Szukaj</td>
+</tr>
+<tr>
+<td class='side-body'>
+<table class='side-body'  width='100%'><td><div style='margin-top:15px;'>
+<center><a class='effect' href='../../search.php?stype=all&stext=&search=Szukaj'><img class='image' src='http://mods-kodi.pl/testing/themes/mods-kodi/images/search_button.png' width='90%' style='margin-top:0px; margin-bottom:15px'><img class='image hover' src='http://mods-kodi.pl/testing/themes/mods-kodi/images/search_button_fo.png' width='90%' style='margin-top:0px; margin-bottom:15px'/></a>	 
+<form id='searchform' name='searchform' method='get' action='../../search.php?stype=all'>
+
+<input type='hidden' name='stype' value='all'/>
+
+<input type='text' name='stext' value='' class='textbox' style='width:100px' />
+
+<input type='submit' name='search' value='Szukaj' class='button' style='margin-left:5px; margin-bottom:25px' /></form>
+
+</div></td></table>
+</td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Najnowsze pliki</td>
+</tr>
+<tr>
+<td class='side-body1'>
+ <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=291' title='m-TVGuide 7.6.0'>m-TVGuide 7.6.0</a>
+			<td class='tbl6' align='right'>2138</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=290' title='Segos'>Segos</a>
+			<td class='tbl6' align='right'>1423</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=289' title='Repozytorium Tom'>Repozytorium Tom</a>
+			<td class='tbl6' align='right'>3026</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=287' title='Podpis Repository 1.4.2'>Podpis Repository 1...</a>
+			<td class='tbl6' align='right'>3286</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=286' title='Mod repository.ramic 1.3.9'>Mod repository.rami...</a>
+			<td class='tbl6' align='right'>5118</td>
+			</td></table></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Najczęściej pobierane</td>
+</tr>
+<tr>
+<td class='side-body1'>
+ <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=105' title='repo.mods-kodi'>repo.mods-kodi</a>
+			<td class='tbl6' align='right'>104773</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=51' title='m-TVGuide'>m-TVGuide</a>
+			<td class='tbl6' align='right'>96146</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=1&download_id=64' title='LIVE TV'>LIVE TV</a>
+			<td class='tbl6' align='right'>90310</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=14' title='Mrknow - repository.filmkodi.com-2.1.0.zip'>Mrknow - repository...</a>
+			<td class='tbl6' align='right'>85062</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=1' title='Repository SD-XBMC'>Repository SD-XBMC</a>
+			<td class='tbl6' align='right'>83182</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=10' title='Weeb.TV.0.1.4'>Weeb.TV.0.1.4</a>
+			<td class='tbl6' align='right'>47317</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=69' title='script service autostart-mtvguide'>script service auto...</a>
+			<td class='tbl6' align='right'>21025</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=2&download_id=2' title='WeebTV'>WeebTV</a>
+			<td class='tbl6' align='right'>14123</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=8' title='tv guide 2.0.0 + gui.py'>tv guide 2.0.0 + gu...</a>
+			<td class='tbl6' align='right'>13137</td>
+			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+				<a class='tbl6' href='../../downloads.php?cat_id=4&download_id=67' title='autoexec.zip'>autoexec.zip</a>
+			<td class='tbl6' align='right'>9230</td>
+			</td></table></td>
+</tr>
+</table>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-2" />
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Ostatnie artykuły</td>
+</tr>
+<tr>
+<td class='side-body1'>
+ <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=72' title='Hakii Cheer - wodoodporny głośnik przenośny klasy premium''>Hakii Cheer - wodood...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=71' title='Tronsmart Element T6 Plus - solidny głośnik bezprzewodowy o dużej mocy''>Tronsmart Element T6...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=70' title='Utorch R9S - lampka RGB typu ambient''>Utorch R9S - lampka ...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=69' title='Beelink GT-King - pierwszy Android-Box z procesorem Amlogic S922X''>Beelink GT-King - pi...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=67' title='Mapy m-TVGuide''>Mapy m-TVGuide</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=66' title='Kospet Hope - smartwatch z funkcjami telefonu''>Kospet Hope - smartw...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=65' title='Teclast A10S - tablet 10,1&#39;&#39; z Androidem''>Teclast A10S - table...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=64' title='Instrukcja obsługi''>Instrukcja obsługi</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=63' title='Porównanie Android-Box 2018''>Porównanie Android-...</a>
+		</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
+			&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
+			<a class='tbl6' href='../../articles.php?article_id=62' title='Alfawise BT-200''>Alfawise BT-200</a>
+		</td></table></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Statystyki</td>
+</tr>
+<tr>
+<td class='side-body1'>
+
+<table align='center' style='background-color:#2c2c2c' width='100%'>
+<td class='tbl6x'>
+<center>Online</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+Gości: <b>7</b><br />
+Użytkowników: <b>0</b><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Statystyki rejestracji</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+Dzisiaj: <b>2</b><br>
+Wczoraj: <b>3</b><br>
+W tym tygodniu: <b>5</b><br>
+W poprzednim tygodniu: <b>27</b><br>
+W tym miesiącu: <b>75</b><br>
+W poprzednim miesiącu: <b>182</b><br>
+W tym roku: <b>257</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Zarejestrowanych: <b>29255</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Najnowszy: <a  href='../../profile.php?lookup=29407' class='tbl6 avatar-tooltip'><strong>Likajos</strong></a></b></center></td></table></td>
+</tr>
+</table>
+﻿<table cellpadding='0' cellspacing='0' width='100%' class='border'>
+<tr>
+<td class='scapmain'>Ostatnio widziani</td>
+</tr>
+<tr>
+<td class='side-body1'>
+
+<table align='center' style='background-color:#2c2c2c' width='100%'><td>
+<script type="text/javascript" src="../../infusions/last_seen_users_panel/jquery.lastseenusers.js "></script>
+<script type='text/javascript'>
+$(document).ready(function() {
+$.lastseenusers.set({
+	url: "../../infusions/last_seen_users_panel/last_seen_users_data.php", 
+	delay: 5000, 
+	div_id: 'list_last_seen_users'
+}, function () {
+// Callback Function
+});
+});
+</script><div id='list_last_seen_users'><center><img src=" ../../infusions/last_seen_users_panel/loader.gif " width='30px' height='30px' style='margin-top:15px' margin-bottom:15px'></center></div></td></table></td>
+</tr>
+</table>
+</td></tr></table>
+<table cellpadding='0' cellspacing='0' width='1200' align=''>
+<tr>
+<td>
+		<div align='right' style='padding-right:40px; padding-top:20px; padding-bottom:20px;'><a class='button-big' href='#Top'>▲ Góra strony</a></div>
+		<hr style='border-top: 0px solid #fdfdfd; background: #f0f0f0; height: 1px; width: 90%;'></td></td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='1200' align=''>
+<tr>
+<td height='25' height='25' class='footer' align='center' style='width: 55%; padding-top:15px'>
+<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->51,684,661 unikalnych wizyt</font></td></div>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49762764-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49762764-2');
+</script>
+<td height='' valign='top' align='center' style='width: 20%;'>
+<div style='margin-top:15px; bgcolor='#fdfdfd'><font face='Type2' size='2' color='#999'><b>WSP&#211;&#321;PRACA</b></font></div>
+
+<div><A class='footer' HREF='http://sd-xbmc.org' TARGET='_blank'><img src='../../images/sd-xbmc.png' width='50%' style='margin-top:15px' ALT='sd-xbmc.org' BORDER='0'></A></div>
+
+</td>
+</td>
+</tr>
+</table>
+<table cellpadding='0' cellspacing='0' width='1200' align=''>
+<tr>
+<td height='25' class='footer1' align='center' style='padding-bottom:30px'>
+<div class='footer'><img src='../../images/fusion_locale_10.png' width='25px' style='vertical-align:middle'>&nbsp;&nbsp;<font color='#777' face='Type2'>Powered by <A class='footer' HREF='http://www.php-fusion.co.uk/' TARGET='_blank'>PHP-Fusion</A> copyright &copy; 2002 - 2020 by Nick Jones. Released as free software without warranties under <A class='footer' HREF='http://www.fsf.org/licensing/licenses/agpl-3.0.html' TARGET='_blank'>GNU Affero GPL</A> v3. </font></div>
+</td></div>
+</tr>
+</table>
+<script type='text/javascript'>
+QueryLoader.init();
+</script>
+</body>
+</html>

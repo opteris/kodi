@@ -1,0 +1,2244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVP 1 HD">
+    <display-name lang="pl">TVP 1 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP 2 HD">
+    <display-name lang="pl">TVP 2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN HD">
+    <display-name lang="pl">TVN HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT HD">
+    <display-name lang="pl">POLSAT HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="WTK">
+    <display-name lang="pl">WTK</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Puls HD">
+    <display-name lang="pl">TV Puls HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Puls 2 HD">
+    <display-name lang="pl">Puls 2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT 2 HD">
+    <display-name lang="pl">POLSAT 2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV 4 HD">
+    <display-name lang="pl">TV 4 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV 6">
+    <display-name lang="pl">TV 6</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Polonia">
+    <display-name lang="pl">TVP Polonia</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polonia 1">
+    <display-name lang="pl">Polonia 1</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TTV">
+    <display-name lang="pl">TTV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN Turbo">
+    <display-name lang="pl">TVN Turbo</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN Fabula HD">
+    <display-name lang="pl">TVN Fabula HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Zoom TV">
+    <display-name lang="pl">Zoom TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nowa TV HD">
+    <display-name lang="pl">Nowa TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Metro TV HD">
+    <display-name lang="pl">Metro TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="WP HD">
+    <display-name lang="pl">WP HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Relax">
+    <display-name lang="pl">TV Relax</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pl">HBO HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO2 HD">
+    <display-name lang="pl">HBO2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO3 HD">
+    <display-name lang="pl">HBO3 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pl">Cinemax HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cinemax2 HD">
+    <display-name lang="pl">Cinemax2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ HD">
+    <display-name lang="pl">CANAL+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ 1 HD">
+    <display-name lang="pl">CANAL+ 1 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Sport HD">
+    <display-name lang="pl">CANAL+ Sport HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Sport 2 HD">
+    <display-name lang="pl">CANAL+ Sport 2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Film HD">
+    <display-name lang="pl">CANAL+ Film HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Family HD">
+    <display-name lang="pl">CANAL+ Family HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Seriale HD">
+    <display-name lang="pl">CANAL+ Seriale HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Discovery HD">
+    <display-name lang="pl">CANAL+ Discovery HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP 1">
+    <display-name lang="pl">TVP 1</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP 2">
+    <display-name lang="pl">TVP 2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN">
+    <display-name lang="pl">TVN</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT">
+    <display-name lang="pl">POLSAT</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Puls">
+    <display-name lang="pl">TV Puls</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="PULS 2">
+    <display-name lang="pl">PULS 2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT 2">
+    <display-name lang="pl">POLSAT 2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV 4">
+    <display-name lang="pl">TV 4</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Kino TV">
+    <display-name lang="pl">Kino TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FilmBox Extra HD">
+    <display-name lang="pl">FilmBox Extra HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FilmBox PREMIUM">
+    <display-name lang="pl">FilmBox PREMIUM</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FilmBox Family">
+    <display-name lang="pl">FilmBox Family</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FilmBox Action">
+    <display-name lang="pl">FilmBox Action</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pl">FOX HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pl">Comedy Central HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Comedy Central Family">
+    <display-name lang="pl">Comedy Central Family</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pl">Paramount Channel HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Ale Kino+ HD">
+    <display-name lang="pl">Ale Kino+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC HD">
+    <display-name lang="pl">BBC HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pl">AXN HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="AXN Spin HD">
+    <display-name lang="pl">AXN Spin HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="pl">AXN White</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="pl">AXN Black</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Stopklatka TV HD">
+    <display-name lang="pl">Stopklatka TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Sundance TV HD">
+    <display-name lang="pl">Sundance TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polsat Film HD">
+    <display-name lang="pl">Polsat Film HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN FABUŁA HD">
+    <display-name lang="pl">TVN FABUŁA HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN 7 HD">
+    <display-name lang="pl">TVN 7 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Seriale">
+    <display-name lang="pl">TVP Seriale</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Kino Polska">
+    <display-name lang="pl">Kino Polska</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ATM Rozrywka">
+    <display-name lang="pl">ATM Rozrywka</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CBS Europa">
+    <display-name lang="pl">CBS Europa</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pl">FOX</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pl">Comedy Central</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ALE KINO+">
+    <display-name lang="pl">ALE KINO+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pl">AXN</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Stopklatka TV">
+    <display-name lang="pl">Stopklatka TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT FILM">
+    <display-name lang="pl">POLSAT FILM</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN 7">
+    <display-name lang="pl">TVN 7</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pl">HBO</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO2">
+    <display-name lang="pl">HBO2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HBO3">
+    <display-name lang="pl">HBO3</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pl">Cinemax</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cinemax2">
+    <display-name lang="pl">Cinemax2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+">
+    <display-name lang="pl">CANAL+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ 1">
+    <display-name lang="pl">CANAL+ 1</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Sport">
+    <display-name lang="pl">CANAL+ Sport</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Film">
+    <display-name lang="pl">CANAL+ Film</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Family">
+    <display-name lang="pl">CANAL+ Family</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CANAL+ Seriale">
+    <display-name lang="pl">CANAL+ Seriale</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN 24 HD">
+    <display-name lang="pl">TVN 24 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN 24">
+    <display-name lang="pl">TVN 24</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polsat News HD">
+    <display-name lang="pl">Polsat News HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polsat News">
+    <display-name lang="pl">Polsat News</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polsat News 2">
+    <display-name lang="pl">Polsat News 2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Info">
+    <display-name lang="pl">TVP Info</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN 24 BiS">
+    <display-name lang="pl">TVN 24 BiS</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP 3 Poznań">
+    <display-name lang="pl">TVP 3 Poznań</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Superstacja">
+    <display-name lang="pl">Superstacja</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Republika HD">
+    <display-name lang="pl">TV Republika HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Republika">
+    <display-name lang="pl">TV Republika</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pl">CNN</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pl">BBC World News</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pl">Sky News</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pl">CNBC</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Euronews ENG">
+    <display-name lang="pl">Euronews ENG</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pl">Euronews</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="France 24 - ENG">
+    <display-name lang="pl">France 24 - ENG</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="pl">Al Jazeera</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pl">DEUTSCHE WELLE</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Russia Today HD">
+    <display-name lang="pl">Russia Today HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pl">Russia Today</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Piervej Kanal">
+    <display-name lang="pl">Piervej Kanal</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Belsat TV">
+    <display-name lang="pl">Belsat TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="pl">France 24</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pl">TVE</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV 5 Monde Europe">
+    <display-name lang="pl">TV 5 Monde Europe</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pl">Lifetime HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN Style HD">
+    <display-name lang="pl">TVN Style HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="pl">HGTV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pl">TLC HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Cafe HD">
+    <display-name lang="pl">POLSAT Cafe HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Play HD">
+    <display-name lang="pl">POLSAT Play HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polsat Romans">
+    <display-name lang="pl">Polsat Romans</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC Brit HD">
+    <display-name lang="pl">BBC Brit HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="pl">BBC Lifestyle</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Kuchnia+ HD">
+    <display-name lang="pl">Kuchnia+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="DOMO+ HD">
+    <display-name lang="pl">DOMO+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="English Club HD">
+    <display-name lang="pl">English Club HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Rozrywka">
+    <display-name lang="pl">TVP Rozrywka</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FashionBOX HD">
+    <display-name lang="pl">FashionBOX HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN Style">
+    <display-name lang="pl">TVN Style</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Cafe">
+    <display-name lang="pl">POLSAT Cafe</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Play">
+    <display-name lang="pl">POLSAT Play</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pl">TLC</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC Brit">
+    <display-name lang="pl">BBC Brit</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Kuchnia+">
+    <display-name lang="pl">Kuchnia+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="DOMO+">
+    <display-name lang="pl">DOMO+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="English Club">
+    <display-name lang="pl">English Club</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Lech TV">
+    <display-name lang="pl">Lech TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="pl">Eurosport 1 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="pl">Eurosport 2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Sport HD">
+    <display-name lang="pl">POLSAT Sport HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Sport Extra HD">
+    <display-name lang="pl">POLSAT Sport Extra HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Super Polsat">
+    <display-name lang="pl">Super Polsat</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Sport HD">
+    <display-name lang="pl">TVP Sport HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVN Turbo HD">
+    <display-name lang="pl">TVN Turbo HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Sport Fight HD">
+    <display-name lang="pl">POLSAT Sport Fight HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FightBox HD">
+    <display-name lang="pl">FightBox HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eleven HD">
+    <display-name lang="pl">Eleven HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eleven Sport HD">
+    <display-name lang="pl">Eleven Sport HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eleven Extra HD">
+    <display-name lang="pl">Eleven Extra HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Active Family HD">
+    <display-name lang="pl">Active Family HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="pl">Eurosport 1</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="nSport+ HD">
+    <display-name lang="pl">nSport+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pl">Eurosport 2</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Sport">
+    <display-name lang="pl">POLSAT Sport</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Sport Extra">
+    <display-name lang="pl">POLSAT Sport Extra</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Sport">
+    <display-name lang="pl">TVP Sport</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="FightBox">
+    <display-name lang="pl">FightBox</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Active Family">
+    <display-name lang="pl">Active Family</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="nSport+">
+    <display-name lang="pl">nSport+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="pl">History HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pl">H2 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pl">National Geographic HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pl">Nat Geo Wild HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pl">Animal Planet HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pl">Discovery Channel HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pl">Discovery Science HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="DTX HD">
+    <display-name lang="pl">DTX HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Discovery Life">
+    <display-name lang="pl">Discovery Life</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ID HD">
+    <display-name lang="pl">ID HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Fokus TV HD">
+    <display-name lang="pl">Fokus TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="pl">BBC Earth HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="PLANETE+ HD">
+    <display-name lang="pl">PLANETE+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Adventure HD">
+    <display-name lang="pl">Adventure HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pl">Travel Channel</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Russia Today Doc. HD">
+    <display-name lang="pl">Russia Today Doc. HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Historia">
+    <display-name lang="pl">TVP Historia</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP Kultura">
+    <display-name lang="pl">TVP Kultura</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Viasat Explorer">
+    <display-name lang="pl">POLSAT Viasat Explorer</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT Viasat History">
+    <display-name lang="pl">POLSAT Viasat History</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="pl">History</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pl">National Geographic</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pl">Nat Geo Wild</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pl">Discovery Channel</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pl">Discovery Science</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="DTX">
+    <display-name lang="pl">DTX</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="pl">ID</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Fokus TV">
+    <display-name lang="pl">Fokus TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="pl">BBC Earth</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="PLANETE+">
+    <display-name lang="pl">PLANETE+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Adventure TV">
+    <display-name lang="pl">Adventure TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Russia Today Doc.">
+    <display-name lang="pl">Russia Today Doc.</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pl">Nickelodeon</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pl">Nickelodeon HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pl">Disney Channel HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pl">Disney Channel</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pl">Disney XD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pl">Disney Junior</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pl">Cartoon Network HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pl">Cartoon Network</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="teleTOON+ HD">
+    <display-name lang="pl">teleTOON+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="teleTOON+">
+    <display-name lang="pl">teleTOON+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pl">Boomerang</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pl">Nick Jr.</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Da Vinci Learning">
+    <display-name lang="pl">Da Vinci Learning</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MiniMini+ HD">
+    <display-name lang="pl">MiniMini+ HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MiniMini+">
+    <display-name lang="pl">MiniMini+</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Ducktv HD">
+    <display-name lang="pl">Ducktv HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Ducktv">
+    <display-name lang="pl">Ducktv</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pl">Baby TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="BBC CBeebies">
+    <display-name lang="pl">BBC CBeebies</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVP ABC">
+    <display-name lang="pl">TVP ABC</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="POLSAT JimJam">
+    <display-name lang="pl">POLSAT JimJam</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="STARS.TV HD">
+    <display-name lang="pl">STARS.TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="STARS.TV">
+    <display-name lang="pl">STARS.TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="pl">VH1</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="VH1 Classic European">
+    <display-name lang="pl">VH1 Classic European</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eska TV HD">
+    <display-name lang="pl">Eska TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Eska TV">
+    <display-name lang="pl">Eska TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="4fun.tv">
+    <display-name lang="pl">4fun.tv</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="4FUN HITS">
+    <display-name lang="pl">4FUN HITS</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="4FUN FIT DANCE">
+    <display-name lang="pl">4FUN FIT DANCE</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pl">MTV Live HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="pl">MTV Hits</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="pl">MTV Rocks</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Polska">
+    <display-name lang="pl">MTV Polska</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Music Polska">
+    <display-name lang="pl">MTV Music Polska</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Kino Polska Muzyka">
+    <display-name lang="pl">Kino Polska Muzyka</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Polo TV">
+    <display-name lang="pl">Polo TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Disco Polo Music">
+    <display-name lang="pl">Disco Polo Music</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Power TV HD">
+    <display-name lang="pl">Power TV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Power TV">
+    <display-name lang="pl">Power TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="VOX Music TV">
+    <display-name lang="pl">VOX Music TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Stingray Brava HD">
+    <display-name lang="pl">Stingray Brava HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Stingray Brava">
+    <display-name lang="pl">Stingray Brava</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Stingray DJAZZ">
+    <display-name lang="pl">Stingray DJAZZ</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Music Box">
+    <display-name lang="pl">Music Box</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Telewizja Wielkopolska HD">
+    <display-name lang="pl">Telewizja Wielkopolska HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV ASTA HD">
+    <display-name lang="pl">TV ASTA HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Tele 5 HD">
+    <display-name lang="pl">Tele 5 HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVS HD">
+    <display-name lang="pl">TVS HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Mango">
+    <display-name lang="pl">Mango</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TV Trwam">
+    <display-name lang="pl">TV Trwam</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="pl">EWTN</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Telewizja Wielkopolska">
+    <display-name lang="pl">Telewizja Wielkopolska</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Tele 5">
+    <display-name lang="pl">Tele 5</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="TVS">
+    <display-name lang="pl">TVS</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ETV HD">
+    <display-name lang="pl">ETV HD</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="pl">ETV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="pl">MTV Dance</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Extreme Sports Channel">
+    <display-name lang="pl">Extreme Sports Channel</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pl">Playboy TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Brazzers TV">
+    <display-name lang="pl">Brazzers TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <channel id="Hustler TV">
+    <display-name lang="pl">Hustler TV</display-name>
+    <url>http://www.onlinetv.inea.pl</url>
+  </channel>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP 1 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP 2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="WTK">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Puls HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Puls 2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT 2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV 4 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV 6">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Polonia">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polonia 1">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TTV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN Turbo">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN Fabula HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Zoom TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nowa TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Metro TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="WP HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Relax">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO3 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cinemax HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cinemax2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ 1 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Sport HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Sport 2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Film HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Family HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Seriale HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Discovery HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP 1">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP 2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Puls">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="PULS 2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT 2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV 4">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Kino TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FilmBox Extra HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FilmBox PREMIUM">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FilmBox Family">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FilmBox Action">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FOX HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Comedy Central HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Comedy Central Family">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Paramount Channel HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Ale Kino+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="AXN HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="AXN Spin HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="AXN White">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="AXN Black">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Stopklatka TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Sundance TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polsat Film HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN FABUŁA HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN 7 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Seriale">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Kino Polska">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ATM Rozrywka">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CBS Europa">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FOX">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Comedy Central">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ALE KINO+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="AXN">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Stopklatka TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT FILM">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN 7">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HBO3">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cinemax">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cinemax2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ 1">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Sport">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Film">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Family">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CANAL+ Seriale">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN 24 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN 24">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polsat News HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polsat News">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polsat News 2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Info">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN 24 BiS">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP 3 Poznań">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Superstacja">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Republika HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Republika">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CNN">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC World News">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Sky News">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="CNBC">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Euronews ENG">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Euronews">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="France 24 - ENG">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Al Jazeera">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="DEUTSCHE WELLE">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Russia Today HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Russia Today">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Piervej Kanal">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Belsat TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="France 24">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVE">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV 5 Monde Europe">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Lifetime HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN Style HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="HGTV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TLC HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Cafe HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Play HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polsat Romans">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC Brit HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC Lifestyle">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Kuchnia+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="DOMO+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="English Club HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Rozrywka">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FashionBOX HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN Style">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Cafe">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Play">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TLC">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC Brit">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Kuchnia+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="DOMO+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="English Club">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Lech TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eurosport 1 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eurosport 2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Sport HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Sport Extra HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Super Polsat">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Sport HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVN Turbo HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Sport Fight HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FightBox HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eleven HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eleven Sport HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eleven Extra HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Active Family HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eurosport 1">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="nSport+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eurosport 2">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Sport">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Sport Extra">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Sport">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="FightBox">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Active Family">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="nSport+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="History HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="H2 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="National Geographic HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nat Geo Wild HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Animal Planet HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Discovery Channel HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Discovery Science HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="DTX HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Discovery Life">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ID HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Fokus TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC Earth HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="PLANETE+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Adventure HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Travel Channel">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Russia Today Doc. HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Historia">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP Kultura">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Viasat Explorer">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT Viasat History">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="History">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="National Geographic">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nat Geo Wild">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Discovery Channel">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Discovery Science">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="DTX">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ID">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Fokus TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC Earth">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="PLANETE+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Adventure TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Russia Today Doc.">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nickelodeon">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nickelodeon HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Disney Channel HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Disney Channel">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Disney XD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Disney Junior">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cartoon Network HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Cartoon Network">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="teleTOON+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="teleTOON+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Boomerang">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Nick Jr.">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Da Vinci Learning">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MiniMini+ HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MiniMini+">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Ducktv HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Ducktv">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Baby TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="BBC CBeebies">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVP ABC">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="POLSAT JimJam">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="STARS.TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="STARS.TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="VH1">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="VH1 Classic European">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eska TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Eska TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="4fun.tv">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="4FUN HITS">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="4FUN FIT DANCE">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Live HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Hits">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Rocks">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Polska">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Music Polska">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Kino Polska Muzyka">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Polo TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Disco Polo Music">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Power TV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Power TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="VOX Music TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Stingray Brava HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Stingray Brava">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Stingray DJAZZ">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Music Box">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Telewizja Wielkopolska HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV ASTA HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Tele 5 HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVS HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Mango">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TV Trwam">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="EWTN">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Telewizja Wielkopolska">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Tele 5">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="TVS">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ETV HD">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="ETV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="MTV Dance">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Extreme Sports Channel">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Playboy TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Brazzers TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+  <programme start="20181010101000 +0200" stop="20191010101000 +0200" channel="Hustler TV">
+    <title lang="en">NEW EPG URL! VISIT OUR WEBSITE!</title>
+<category lang="en">NEW EPG URL! VISIT OUR WEBSITE!</category>
+<desc lang="en">NEW EPG URL! VISIT OUR WEBSITE!</desc>
+  </programme>
+</tv>
