@@ -209,14 +209,14 @@ $(document).ready(function() {
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White.zip - 02 Mar 2020 - 04:03:05
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV - 03 Mar 2020 - 12:03:03
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV.zip - 03 Mar 2020 - 12:03:58
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish - 02 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish.zip - 02 Mar 2020 - 04:03:07
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish - 03 Mar 2020 - 04:03:01
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish.zip - 03 Mar 2020 - 04:03:06
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish - 02 Mar 2020 - 04:03:01
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish.zip - 02 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench - 02 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench.zip - 02 Mar 2020 - 04:03:15
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman - 02 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman.zip - 02 Mar 2020 - 04:03:11
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman - 03 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman.zip - 03 Mar 2020 - 04:03:11
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish - 02 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish.zip - 02 Mar 2020 - 04:03:09
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian - 02 Mar 2020 - 04:03:02
@@ -225,8 +225,8 @@ $(document).ready(function() {
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian.zip - 02 Mar 2020 - 04:03:07
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian - 02 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian.zip - 02 Mar 2020 - 04:03:10
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux - 02 Mar 2020 - 04:03:09
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux.zip - 02 Mar 2020 - 04:03:20
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux - 03 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux.zip - 03 Mar 2020 - 04:03:11
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech - 02 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech.zip - 02 Mar 2020 - 04:03:13
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspUS - 04 Nov 2019 - 04:11:03
@@ -574,18 +574,18 @@ Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>
 <table align='center' style='background-color:#2c2c2c' width='100%'>
 <td class='tbl6x'>
 <center>Online</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Gości: <b>8</b><br />
+Gości: <b>9</b><br />
 Użytkowników: <b>0</b><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
 <center>Statystyki rejestracji</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Dzisiaj: <b>0</b><br>
+Dzisiaj: <b>1</b><br>
 Wczoraj: <b>5</b><br>
-W tym tygodniu: <b>5</b><br>
+W tym tygodniu: <b>6</b><br>
 W poprzednim tygodniu: <b>17</b><br>
-W tym miesiącu: <b>10</b><br>
+W tym miesiącu: <b>11</b><br>
 W poprzednim miesiącu: <b>102</b><br>
-W tym roku: <b>294</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Zarejestrowanych: <b>29292</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-<center>Najnowszy: <a  href='../../profile.php?lookup=29444' class='tbl6 avatar-tooltip'><strong>dik767</strong></a></b></center></td></table></td>
+W tym roku: <b>295</b><br><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Zarejestrowanych: <b>29293</b></center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
+<center>Najnowszy: <a  href='../../profile.php?lookup=29445' class='tbl6 avatar-tooltip'><strong>CYBERFIRE LEECHER</strong></a></b></center></td></table></td>
 </tr>
 </table>
 ﻿<table cellpadding='0' cellspacing='0' width='100%' class='border'>
@@ -621,7 +621,7 @@ $.lastseenusers.set({
 <table cellpadding='0' cellspacing='0' width='1200' align=''>
 <tr>
 <td height='25' height='25' class='footer' align='center' style='width: 55%; padding-top:15px'>
-<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->57,601,714 unikalnych wizyt</font></td></div>
+<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->57,610,704 unikalnych wizyt</font></td></div>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49762764-2"></script>
 <script>
