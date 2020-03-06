@@ -203,40 +203,40 @@ $(document).ready(function() {
 <td style='padding-top: 0px;' class='full-header' align='center'><img src='../../themes/mods-kodi/images/top_banner.png' width='100%'></td></tr>
 <tr>
 <td class='sub-header'>
-<table><a href="http://mods-kodi.pl/info_epg/epg.php"><marquee>Ostatnia aktualizacja EPG: Polish - 05 Mar 2020 - 04:03:01 
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish.zip - 05 Mar 2020 - 04:03:21
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White - 05 Mar 2020 - 04:03:35
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White.zip - 05 Mar 2020 - 04:03:53
+<table><a href="http://mods-kodi.pl/info_epg/epg.php"><marquee>Ostatnia aktualizacja EPG: Polish - 06 Mar 2020 - 04:03:01 
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish.zip - 06 Mar 2020 - 04:03:21
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White - 06 Mar 2020 - 04:03:24
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspPolish_White.zip - 06 Mar 2020 - 04:03:43
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV - 06 Mar 2020 - 12:03:19
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspIPTV.zip - 06 Mar 2020 - 12:03:15
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish - 06 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspDanish.zip - 06 Mar 2020 - 04:03:06
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish - 05 Mar 2020 - 04:03:03
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish.zip - 05 Mar 2020 - 04:03:22
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench - 05 Mar 2020 - 04:03:03
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench.zip - 05 Mar 2020 - 04:03:15
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish - 06 Mar 2020 - 04:03:03
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspEnglish.zip - 06 Mar 2020 - 04:03:22
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspFrench.zip - 06 Mar 2020 - 04:03:14
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman - 06 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspGerman.zip - 06 Mar 2020 - 04:03:10
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish.zip - 05 Mar 2020 - 04:03:08
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian.zip - 05 Mar 2020 - 04:03:10
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian - 05 Mar 2020 - 04:03:01
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian.zip - 05 Mar 2020 - 04:03:06
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian.zip - 05 Mar 2020 - 04:03:10
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSwedish.zip - 06 Mar 2020 - 04:03:08
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCroatian.zip - 06 Mar 2020 - 04:03:09
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspNorwegian.zip - 06 Mar 2020 - 04:03:07
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspSerbian.zip - 06 Mar 2020 - 04:03:10
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux - 06 Mar 2020 - 04:03:02
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspBenelux.zip - 06 Mar 2020 - 04:03:11
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech.zip - 05 Mar 2020 - 04:03:12
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspCzech.zip - 06 Mar 2020 - 04:03:12
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspUS - 04 Nov 2019 - 04:11:03
 &nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspUS.zip - 04 Nov 2019 - 04:11:04
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian.zip - 05 Mar 2020 - 04:03:05
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld - 05 Mar 2020 - 06:03:03
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld.zip - 05 Mar 2020 - 06:03:51
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio - 05 Mar 2020 - 04:03:02
-&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio.zip - 05 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspItalian.zip - 06 Mar 2020 - 04:03:05
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld - 06 Mar 2020 - 06:03:03
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspWorld.zip - 06 Mar 2020 - 06:03:51
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio - 06 Mar 2020 - 04:03:02
+&nbsp&nbsp<b>|</b>&nbsp&nbsp&nbspRadio.zip - 06 Mar 2020 - 04:03:02
 </marquee></a></table><hr><table cellspacing='0' cellpadding='0' border='0' style='padding-top: 0px; padding-bottom: 0px;' width='auto' align='center'>
 <tr>
  <td>
@@ -459,19 +459,19 @@ Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=290' title='Segos'>Segos</a>
-			<td class='tbl6' align='right'>1433</td>
+			<td class='tbl6' align='right'>1434</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=289' title='Repozytorium Tom'>Repozytorium Tom</a>
-			<td class='tbl6' align='right'>3067</td>
+			<td class='tbl6' align='right'>3070</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=287' title='Podpis Repository 1.4.2'>Podpis Repository 1...</a>
-			<td class='tbl6' align='right'>3301</td>
+			<td class='tbl6' align='right'>3302</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=286' title='Mod repository.ramic 1.3.9'>Mod repository.rami...</a>
-			<td class='tbl6' align='right'>5142</td>
+			<td class='tbl6' align='right'>5144</td>
 			</td></table></td>
 </tr>
 </table>
@@ -484,7 +484,7 @@ Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>
  <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=105' title='repo.mods-kodi'>repo.mods-kodi</a>
-			<td class='tbl6' align='right'>104886</td>
+			<td class='tbl6' align='right'>104890</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=51' title='m-TVGuide'>m-TVGuide</a>
@@ -492,19 +492,19 @@ Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=1&download_id=64' title='LIVE TV'>LIVE TV</a>
-			<td class='tbl6' align='right'>90343</td>
+			<td class='tbl6' align='right'>90346</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=14' title='Mrknow - repository.filmkodi.com-2.1.0.zip'>Mrknow - repository...</a>
-			<td class='tbl6' align='right'>85101</td>
+			<td class='tbl6' align='right'>85105</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=1' title='Repository SD-XBMC'>Repository SD-XBMC</a>
-			<td class='tbl6' align='right'>83201</td>
+			<td class='tbl6' align='right'>83205</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=9&download_id=10' title='Weeb.TV.0.1.4'>Weeb.TV.0.1.4</a>
-			<td class='tbl6' align='right'>47333</td>
+			<td class='tbl6' align='right'>47334</td>
 			</td></table> <table align='center' style='background-color:#2c2c2c;' width='100%'><td>
 				&nbsp;<img src='../../themes/mods-kodi/images/bullet.gif'>
 				<a class='tbl6' href='../../downloads.php?cat_id=3&download_id=69' title='script service autostart-mtvguide'>script service auto...</a>
@@ -574,11 +574,11 @@ Ustawienie czcionki zaleznie od skorki m-TVGuide<br /><br /><i>Wersja: 8.2.0</i>
 <table align='center' style='background-color:#2c2c2c' width='100%'>
 <td class='tbl6x'>
 <center>Online</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Gości: <b>10</b><br />
+Gości: <b>7</b><br />
 Użytkowników: <b>0</b><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
 <center>Statystyki rejestracji</center><hr style='border: 0px solid #e34555; background: #e34555; height: 1px; width: 80%;'>
-Dzisiaj: <b>3</b><br>
-Wczoraj: <b>4</b><br>
+Dzisiaj: <b>0</b><br>
+Wczoraj: <b>3</b><br>
 W tym tygodniu: <b>16</b><br>
 W poprzednim tygodniu: <b>17</b><br>
 W tym miesiącu: <b>21</b><br>
@@ -621,7 +621,7 @@ $.lastseenusers.set({
 <table cellpadding='0' cellspacing='0' width='1200' align=''>
 <tr>
 <td height='25' height='25' class='footer' align='center' style='width: 55%; padding-top:15px'>
-<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->58,936,954 unikalnych wizyt</font></td></div>
+<div style='padding-left:40%; padding-right:auto;'><font color='#777' face='Type2'>Copyright mods-kodi.pl © 2013 - 2020</font><br><font color='#777' face='Type2'><a class='footer1' href='http://mods-kodi.pl/viewpage.php?page_id=7'><i>UWAGA! Ten serwis używa cookies i podobnych technologii.<br>Brak zmiany ustawienia przeglądarki oznacza zgodę na to.</i></a></font></div><div style='padding-left:40%; padding-top:10px' class='footer'><font color='#777' face='Type2'>Stworzone przez <A class='footer2' HREF='/profile.php?lookup=1'>micnor</A>, <A class='footer2' HREF='/profile.php?lookup=2146'>mariusz89b</A>, <A class='footer2' HREF='/profile.php?lookup=651'>moras86</A><br><font color='#777' face='Type2'><!--counter-->59,054,984 unikalnych wizyt</font></td></div>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49762764-2"></script>
 <script>
